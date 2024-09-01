@@ -8,7 +8,7 @@ This project involves creating a set of Python functions and a class that demons
 
 - Code Editor or Integrated Development Environment (IDE)
 
-- Command Line or Terminal:
+- Command Line or Terminal
 
 ## Getting Started
 
